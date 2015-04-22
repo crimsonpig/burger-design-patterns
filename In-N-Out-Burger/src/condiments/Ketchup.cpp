@@ -2,7 +2,7 @@
  * Ketchup.cpp
  *
  *  Created on: Apr 15, 2015
- *      Author: keith
+ *      Author: crimsonpig
  */
 
 #include "Ketchup.h"

@@ -2,7 +2,7 @@
  * Pickle.h
  *
  *  Created on: Apr 15, 2015
- *      Author: keith
+ *      Author: crimsonpig
  */
 
 #ifndef PICKLE_H_

@@ -2,7 +2,7 @@
  * Onion.cpp
  *
  *  Created on: Jan 19, 2015
- *      Author: keith
+ *      Author: crimsonpig
  */
 
 #include "Onion.h"

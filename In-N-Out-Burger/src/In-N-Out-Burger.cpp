@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : In-N-Out-Burger.cpp
-// Author      : Keith
+// Author      : crimsonpig
 // Version     :
 // Copyright   : In-N-Out is Tasty
 // Description : Hello World in C++, Ansi-style

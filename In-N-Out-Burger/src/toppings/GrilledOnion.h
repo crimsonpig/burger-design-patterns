@@ -2,7 +2,7 @@
  * GrilledOnion.h
  *
  *  Created on: Jan 19, 2015
- *      Author: keith
+ *      Author: crimsonpig
  */
 
 #ifndef GRILLEDONION_H_

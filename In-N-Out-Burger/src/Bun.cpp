@@ -2,7 +2,7 @@
  * Bun.cpp
  *
  *  Created on: Jan 18, 2015
- *      Author: keith
+ *      Author: crimsonpig
  */
 #include <string>
 using namespace std;

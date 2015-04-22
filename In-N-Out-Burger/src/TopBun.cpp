@@ -3,7 +3,7 @@
  * TopBun.cpp
  *
  *  Created on: Jan 19, 2015
- *      Author: keith
+ *      Author: crimsonpig
  */
 #include "Bun.cpp"
 class TopBun: public Bun {
